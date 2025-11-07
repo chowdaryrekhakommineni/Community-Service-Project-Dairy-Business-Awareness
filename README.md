@@ -38,13 +38,9 @@ This community service project aims to promote awareness about dairy business pr
 ---
 
 ## 📄 Project Logbook  
-The complete logbook for this community service project is available below:  
-📘 [View Project Logbook](Documents/CSP_Logbook_Kommineni_Rekha_Chowdary.pdf)
-
----
-
-## 📁 Project File
+The complete logbook for this community service project is available below: 
 🔗 [Download Project Files](https://drive.google.com/file/d/1FxpbnK-5Jn0zPAmBTlY3ha-jLORtpaN4/view?usp=drive_link)
+
 
 ---
 
