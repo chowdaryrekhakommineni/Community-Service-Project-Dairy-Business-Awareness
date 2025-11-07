@@ -37,17 +37,22 @@ This community service project aims to promote awareness about dairy business pr
 
 ---
 
+## 📄 Project Logbook  
+The complete logbook for this community service project is available below:  
+📘 [View Project Logbook](Documents/CSP_Logbook_Kommineni_Rekha_Chowdary.pdf)
+
+---
 
 ## 📁 Project File
 🔗 [Download Project Files](https://drive.google.com/file/d/1FxpbnK-5Jn0zPAmBTlY3ha-jLORtpaN4/view?usp=drive_link)
 
 ---
 
-## 🏆 Certificate of Completion  
-Issued by **Community Service (Grama Sachivalayam – Tirupati [Urban] Mandal)**.  
-*(Certificate not attached in this repository.)*
+## ✨ Acknowledgement
+I sincerely thank **Community Service (Grama Sachivalayam – Tirupati [Urban] Mandal)**, coordinators, and participants for their continuous support throughout the project. Their cooperation and enthusiasm made this community service initiative successful and impactful.
 
 ---
 
-## ✨ Acknowledgement
-I sincerely thank **Community Service (Grama Sachivalayam – Tirupati [Urban] Mandal)**, coordinators, and participants for
+## 💬 Author
+**Kommineni Rekha Chowdary**  
+📧 chowdaryrekhakommineni@gmail.com
