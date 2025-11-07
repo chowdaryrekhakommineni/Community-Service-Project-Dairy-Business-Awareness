@@ -43,6 +43,11 @@ The complete logbook for this community service project is available below:
 
 ---
 
+## 📁 Project File
+🔗 [Download Project Files](https://drive.google.com/file/d/1FxpbnK-5Jn0zPAmBTlY3ha-jLORtpaN4/view?usp=drive_link)
+
+---
+
 ## 🏆 Certificate of Completion  
 Issued by **Community Service (Grama Sachivalayam – Tirupati [Urban] Mandal)**.  
 *(Certificate not attached in this repository.)*
@@ -50,10 +55,4 @@ Issued by **Community Service (Grama Sachivalayam – Tirupati [Urban] Mandal)**
 ---
 
 ## ✨ Acknowledgement
-I sincerely thank **Community Service (Grama Sachivalayam – Tirupati [Urban] Mandal)**, coordinators, and participants for their continuous support throughout the project. Their cooperation and enthusiasm made this community service initiative successful and impactful.
-
----
-
-## 💬 Author
-**Kommineni Rekha Chowdary**  
-📧 chowdaryrekhakommineni@gmail.com  
+I sincerely thank **Community Service (Grama Sachivalayam – Tirupati [Urban] Mandal)**, coordinators, and participants for
